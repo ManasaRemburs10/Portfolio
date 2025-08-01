@@ -1,28 +1,30 @@
-## Project Description
-A web page showcasing the student’s information,  skills, projects, experience, achievements along with important links to github, linkedin,etc.
+ personal portfolio website to showcase my skills, projects, education, achievements, and experience. The site also includes links to my GitHub and other relevant profiles.
 
-## Outline of the Solution
-### Planning and Design: 
-Decide on the graphical elements and organization of the page. 
-Sketched and created a blueprint of the website.
-Decide on the correct colour scheme and typography.
+📌 Features
+📖 Home – A quick intro with a profile image
 
-### Development: 
-Navigation Section: Traditional static horizontal bar with a set of labels (Home, About, Skills, Projects, Education, Achievements). 
-Home Section: Top of the page with a brief introduction besides a photo. 
-About Section: Detailed information about myself. 
-Skills Section: Technical Skills which includes programming languages, frameworks and tools. 
-Projects Section: Examples of important works with brief descriptions, technologies that were applied.
-Education Section: Details of education. 
- 
-### Styling: 
-Design responsive and attractive layout using CSS, bootstrap and other media queries. 
-Make sure that different parts are presented in the same style. 
+👤 About – Detailed background information
 
-### Interactivity: 
-Use if for interactive widgets (e. g. , navigation menu). 
-Smooth scrolling between sections.
+🛠️ Skills – Technical skills including languages, frameworks, and tools
 
+💻 Projects – Highlighted work with descriptions and technologies used
 
+🎓 Education – Academic background
 
+🔗 Important Links – Direct access to GitHub, etc.
 
+🧩 Technologies Used
+HTML5
+
+CSS3
+
+JavaScript
+
+Bootstrap
+
+Responsive Design (Media Queries)
+🚀 Getting Started
+To run locally:
+git clone https://github.com/your-username/your-portfolio.git
+cd your-portfolio
+open index.html
